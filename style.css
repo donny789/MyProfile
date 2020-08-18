@@ -1,0 +1,65 @@
+body {
+  background-color: BurlyWood;
+  margin-left: 50px;
+}
+header {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 110px;
+  width: 2000px;
+  background-color: rgb(178, 19, 19);
+}
+h1.header {
+  margin: 22px 0px 0px 80px;
+  padding: 0px 0px 0px 0px;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.nav-link {
+  margin: 0px -3px 0px 7px;
+  padding: 0px 0px 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline;
+}
+.nav-link-pendidikan {
+  margin: 0px 50px 0px -38px;
+  padding: 0px 0px 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline;
+}
+.nav-link-pekerjaan {
+  margin: 0px 50px 0px -38px;
+  padding: 0px 0px 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline;
+}
+a:link,
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+a:hover,
+a:active {
+  color: pink;
+  text-decoration: none;
+}
+img {
+  float: left;
+}
+div.cerita {
+  padding-top: 2cm;
+  color: dodgerblue;
+  font-family: Calibri;
+  font-size: 22px;
+}
+h2 {
+  color: palegreen;
+}
+p.cerita {
+  max-width: 1200px;
+  text-align: justify;
+}
